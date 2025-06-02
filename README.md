@@ -28,13 +28,14 @@ More topics are being added as the series progresses!
 data-structures-algorithms/
 │
 ├── arraysStrings/
-│   ├── reverse_array.py
-│   ├── two_sum.py
+│   ├── array_shifting_rotations.py
+│   ├── arrays_intro.py
+│   ├── strings_intro.py
 │   └── README.md
 │
 ├── linkedLists/
-│   ├── singly_linked_list.py
-│   └── detect_cycle.py
+│   ├── linked_lists_intro.py
+│   └── README.md
 │
 ├── LICENSE
 ├── README.md
